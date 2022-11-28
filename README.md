@@ -1,0 +1,1 @@
+# Erisim-Belirleyiciler-ve-Kurucu-Fonksiyonlar
